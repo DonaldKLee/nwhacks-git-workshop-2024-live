@@ -9,3 +9,5 @@ Hahahaha.
 Welcome to intro to Git
 
 nwPlus is cool!
+
+My favourite UBC Courses are: PSYC 102, CPSC 110, CHEM 313
