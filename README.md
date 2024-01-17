@@ -13,3 +13,5 @@ nwPlus is cool!
 My favourite UBC Courses are: PSYC 102, CPSC 110, CHEM 313
 
 Hi
+
+Hope you all have fun at nwHacks!
